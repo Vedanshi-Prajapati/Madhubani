@@ -9,7 +9,7 @@
     <i>"Enter a world where every line is a ritual and every color is nature."</i>
   </p>
 
-  [![Download on the App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com)
+  [![Download on the App Store](https://img.shields.io/badge/App_Store-Download-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/in/app/madhubani/id6792649215)
   [![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20iPadOS-lightgrey?style=for-the-badge&logo=apple)](https://developer.apple.com/ios/)
   [![Swift](https://img.shields.io/badge/Swift-5.9+-FA7343?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
   [![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-007ACC?style=for-the-badge&logo=swift)](https://developer.apple.com/xcode/swiftui/)
@@ -139,18 +139,16 @@ artform/
 
 ---
 
-## 📲 Download on App Store
+## 📲 Download on the App Store
 
-The application is officially available on the Apple App Store:
+Madhubani is officially available for iPhone and iPad on the Apple App Store:
 
 <div align="center">
-  <a href="https://apps.apple.com">
-    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1600000000" alt="Download on the App Store" width="180">
+  <a href="https://apps.apple.com/in/app/madhubani/id6792649215" target="_blank">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1600000000" alt="Download on the App Store" width="190">
   </a>
-  <p>Search for <b>"Madhubani"</b> on the iOS App Store or use the link above.</p>
+  <p><a href="https://apps.apple.com/in/app/madhubani/id6792649215"><b>View Madhubani on the App Store ↗</b></a></p>
 </div>
-
-> **Note**: *Replace the App Store badge link with your direct app store URL (`https://apps.apple.com/app/id<YOUR_APP_ID>`).*
 
 ---
 
@@ -167,8 +165,8 @@ To explore or build the source code locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Vedanshi-Prajapati/SwiftUI.git
-   cd SwiftUI
+   git clone https://github.com/Vedanshi-Prajapati/Madhubani.git
+   cd Madhubani
    ```
 
 2. **Open the project in Xcode**:
