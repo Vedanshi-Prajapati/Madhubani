@@ -16,7 +16,7 @@ struct CanvasView: UIViewRepresentable {
         context.coordinator.canvasView = v
         return v
     }
-
+ 
     func updateUIView(_ uiView: CanvasUIView, context: Context) {
         uiView.setLayers(fill: store.fillLayer, ink: store.inkLayer)
         uiView.activeTool = store.config.activeTool
